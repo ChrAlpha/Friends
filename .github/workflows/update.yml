@@ -1,6 +1,9 @@
 name: ChrAlpha Friends
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -9,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: main
 
       - name: Generate
         run: |
