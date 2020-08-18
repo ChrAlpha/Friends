@@ -1,0 +1,24 @@
+name: ChrAlpha Friends
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate
+        run: |
+          mkdir dist
+          cp ./data.yml ./dist/date.yml && cp -r ./src ./dist
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./dist
+          cname: friends.ichr.me
