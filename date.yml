@@ -1,0 +1,39 @@
+- name: "科技花"
+  avatar: blog.zaihua.me.jpg
+  url: https://blog.zaihua.me/
+  desc: "一条猛男"
+
+- name: "执迷不悟"
+  avatar: ditou.org.jpg
+  url: https://ditou.org/
+  desc: "friend"
+
+- name: "P3TERX ZONE"
+  avatar: p3terx.com.jpeg
+  url: https://p3terx.com/
+  desc: "一个萌新的博客"
+  
+- name: "Parasomnia"
+  avatar: mashiro.best.jpg
+  url: https://mashiro.best/
+  desc: "friend"
+    
+- name: "TRHX’S BLOG"
+  avatar: www.itrhx.com.png
+  url: https://www.itrhx.com/
+  desc: "求知若饥，虚心若愚！"
+  
+- name: "LJY's Blog"
+  avatar: blog.ljyngup.com.jpg
+  url: https://blog.ljyngup.com/
+  desc: "friend"
+  
+- name: "Mina!"
+  avatar: www.mina.moe.png
+  url: https://www.mina.moe/
+  desc: "目前由Qiuly打理的供OIer学习交流的地方"
+
+- name: "PM 小凯哥"
+  avatar: xuxinkai.cn.jpg
+  url: https://xuxinkai.cn/
+  desc: "一枚产品的折腾记录"
