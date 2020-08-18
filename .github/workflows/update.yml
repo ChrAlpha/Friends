@@ -9,16 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [12.x]
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
           ref: main
 
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
       - name: Generate
         run: |
-          mkdir dist
-          cp ./data.yml ./dist/data.yml && cp -r ./src/* ./dist
+          npm i && npm run build
+          cp -r ./src/img ./dist
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
