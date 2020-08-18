@@ -18,7 +18,7 @@ jobs:
       - name: Generate
         run: |
           mkdir dist
-          cp ./data.yml ./dist/date.yml && cp -r ./src ./dist
+          cp ./data.yml ./dist/data.yml && cp -r ./src/* ./dist
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
