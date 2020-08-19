@@ -1,5 +1,5 @@
-- name: "申请 ／ 内页链接"
-  url: /friends/notice/
+- name: "申请 / 内页链接"
+  url: /links/notice/
   backgroundColor: '#ca2c2a'
   textColor: '#fff'
   target: '_self'
