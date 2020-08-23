@@ -1,8 +1,9 @@
-- name: "申请 / 内页链接"
-  url: /links/notice/
+- name: "关于友情链接"
+  url: /links-notice/
   backgroundColor: '#ca2c2a'
   textColor: '#fff'
   target: '_self'
+  desc: "申请友链 / 内页链接"
   
 - name: "Sukka's Blog"
   avatar: blog.skk.moe.png
@@ -19,14 +20,14 @@
   desc: "Linux | 云原生 | 容器"
 
 - name: "云游君"
-  avatar: www.yunyoujun.cn.jpg
+  avatar: www.yunyoujun.cn.png
   url: https://www.yunyoujun.cn
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "希望能成为有趣的人"
 
 - name: "idealclover"
-  avatar: idealclover.top.jpg
+  avatar: idealclover.top.png
   url: https://idealclover.top
   backgroundColor: '#0083C0'
   textColor: '#fff'
@@ -40,7 +41,7 @@
   desc: "不可爱的蓝孩纸"
   
 - name: "Eltrac's "
-  avatar: guhub.cn.jpg
+  avatar: guhub.cn.png
   url: https://guhub.cn/
   backgroundColor: '#0083C0'
   textColor: '#fff'
@@ -75,14 +76,14 @@
   desc: "Can you hear me?"
 
 - name: "探索子"
-  avatar: beyondstars.xyz.jpg
+  avatar: beyondstars.xyz.png
   url: https://beyondstars.xyz
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "越过星空，探索未知"
 
 - name: "蝉时雨"
-  avatar: chanshiyu.com.jpg
+  avatar: chanshiyu.com.png
   url: https://chanshiyu.com
   backgroundColor: '#0083C0'
   textColor: '#fff'
@@ -103,35 +104,35 @@
   desc: "大学萌新的普通 Blog"
 
 - name: "方寸间"
-  avatar: 10101.io.jpg
+  avatar: 10101.io.png
   url: https://10101.io/
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "拖延症患者的瞎折腾"
 
 - name: "七夏浅笑"
-  avatar: www.julydate.com.jpg
+  avatar: www.julydate.com.png
   url: https://www.julydate.com/
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "七月之约，夏末浅笑"
 
 - name: "皮皮凛の小窝"
-  avatar: owomoe.net.jpg
+  avatar: owomoe.net.png
   url: https://owomoe.net/
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "永远相信美好的事情即将发生~"
 
 - name: "xaoxuu"
-  avatar: xaoxuu.com.jpg
+  avatar: xaoxuu.com.png
   url: https://xaoxuu.com
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "iOS | 开发者"
 
 - name: "马孔多不下雪"
-  avatar: blog.5v5.lol.jpg
+  avatar: blog.5v5.lol.png
   url: https://blog.5v5.lol/
   backgroundColor: '#0083C0'
   textColor: '#fff'

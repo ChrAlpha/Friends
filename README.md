@@ -27,9 +27,9 @@
 - 名称：`ChrAlpha 的幻想乡` 或者 `ChrAlpha's` 
 - URL：`https://ichr.me` 或者 `https://blog.ichr.me` 亦或 `https://chralpha.com`
 - Slogan：`你必须拼尽全力，才能显得毫不费力` （非强制，也可以按你认为的来填）
-- 头像：[链接](https://friends.ichr.me/img/ichr.me.jpg) （如果无需头像就不用管它啦）
+- 头像：[链接](https://friends.ichr.me/img/ichr.me.png) （如果无需头像就不用管它啦）
 
-然后，也要让我知道你的信息——修改 `data.yml`：
+然后，也要让我知道你的信息——Fork 本仓库并修改 `data.yml`：
 
 - 将一张中心对称、不大于 512KB 的头像提交至 `src/img/` 下，命名格式为 `[domain].[format]`，如 `blog.ichr.me.png`
 

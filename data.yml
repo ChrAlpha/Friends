@@ -1,10 +1,10 @@
 - name: "科技花"
-  avatar: blog.zaihua.me.jpg
+  avatar: blog.zaihua.me.png
   url: https://blog.zaihua.me/
   desc: "一条猛男"
 
 - name: "执迷不悟"
-  avatar: ditou.org.jpg
+  avatar: ditou.org.png
   url: https://ditou.org/
   desc: "friend"
 
@@ -14,7 +14,7 @@
   desc: "一个萌新的博客"
   
 - name: "Parasomnia"
-  avatar: mashiro.best.jpg
+  avatar: mashiro.best.png
   url: https://mashiro.best/
   desc: "friend"
     
@@ -24,7 +24,7 @@
   desc: "求知若饥，虚心若愚！"
   
 - name: "LJY's Blog"
-  avatar: blog.ljyngup.com.jpg
+  avatar: blog.ljyngup.com.png
   url: https://blog.ljyngup.com/
   desc: "friend"
   
@@ -34,6 +34,6 @@
   desc: "目前由Qiuly打理的供OIer学习交流的地方"
 
 - name: "PM 小凯哥"
-  avatar: xuxinkai.cn.jpg
+  avatar: xuxinkai.cn.png
   url: https://xuxinkai.cn/
   desc: "一枚产品的折腾记录"
