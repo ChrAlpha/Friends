@@ -55,7 +55,7 @@
   desc: "Somebottle 的博客"
 
 - name: "折影轻梦"
-  avatar: nexmoe.com.jpeg
+  avatar: nexmoe.com.png
   url: https://nexmoe.com/
   backgroundColor: '#0083C0'
   textColor: '#fff'
@@ -69,7 +69,7 @@
   desc: "高中生，爱折腾的少年"
 
 - name: "/rkm/ Rikumi"
-  avatar: rikumi.dev.jpeg
+  avatar: rikumi.dev.png
   url: https://rikumi.dev/
   backgroundColor: '#0083C0'
   textColor: '#fff'
