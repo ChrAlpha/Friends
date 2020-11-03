@@ -24,7 +24,7 @@
 
 既然是「交换」，那也还请先将 ChrAlpha 先添加到你的友链中：
 
-- 名称：`ChrAlpha 的幻想乡` 或者 `ChrAlpha's` 
+- 名称：`ChrAlpha's Blog` 或者 `ChrAlpha's Nerverland` 
 - URL：`https://ichr.me` 或者 `https://blog.ichr.me` 亦或 `https://chralpha.com`
 - Slogan：`你必须拼尽全力，才能显得毫不费力` （非强制，也可以按你认为的来填）
 - 头像：[链接](https://friends.ichr.me/img/ichr.me.png) （如果无需头像就不用管它啦）
@@ -46,7 +46,7 @@
 
 - 完成后请新建一个 Pull Request
 
-- 当你的 Pull Request 被通过、合并后，你的网站就将在 12 小时内展示在 [ChrAlpha 的友链页面](https://blog.ichr.me/links/)。
+- 当你的 Pull Request 被通过、合并后，你的网站就将在 12 小时内展示在 [ChrAlpha 的内页友链](https://blog.ichr.me/links-notice/)。
 
 可别交换完友链就不管了，记得要经常互访互动的呀。
 
