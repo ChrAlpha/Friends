@@ -137,3 +137,10 @@
   backgroundColor: '#0083C0'
   textColor: '#fff'
   desc: "心有萌猫，细嗅蔷薇"
+
+- name: "一大加贝"
+  avatar: blog.yidajiabei.xyz.png
+  url: https://blog.yidajiabei.xyz
+  backgroundColor: '#0083C0'
+  textColor: '#fff'
+  desc: "学习技术，热爱生活"
