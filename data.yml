@@ -1,17 +1,7 @@
-- name: "科技花"
-  avatar: blog.zaihua.me.png
-  url: https://blog.zaihua.me/
-  desc: "一条猛男"
-
 - name: "执迷不悟"
   avatar: ditou.org.png
   url: https://ditou.org/
   desc: "friend"
-
-- name: "P3TERX ZONE"
-  avatar: p3terx.com.jpeg
-  url: https://p3terx.com/
-  desc: "一个萌新的博客"
   
 - name: "Parasomnia"
   avatar: mashiro.best.png
