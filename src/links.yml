@@ -1,8 +1,3 @@
-- name: "关于友情链接"
-  url: /links-notice/
-  target: '_self'
-  desc: "申请友链 / 内页链接"
-  
 - name: "Sukka's Blog"
   avatar: blog.skk.moe.png
   url: https://blog.skk.moe
@@ -62,21 +57,6 @@
   avatar: www.xiaolin.in.png
   url: https://www.xiaolin.in/
   desc: "不可爱的蓝孩纸"
-  
-- name: "Eltrac's "
-  avatar: guhub.cn.png
-  url: https://guhub.cn/
-  desc: "暗夜行路，终遇奇迹"
-
-- name: "折影轻梦"
-  avatar: nexmoe.com.png
-  url: https://nexmoe.com/
-  desc: "For a better life."
-
-- name: "探索子"
-  avatar: beyondstars.xyz.png
-  url: https://beyondstars.xyz
-  desc: "越过星空，探索未知"
 
 - name: "蝉时雨"
   avatar: chanshiyu.com.png
@@ -86,7 +66,7 @@
 - name: "PRIM Blog"
   avatar: printempw.github.io.png
   url: https://printempw.github.io/
-  desc: "全栈开发者日常 | 5 年了"
+  desc: "全栈开发者日常"
 
 - name: "方寸间"
   avatar: 10101.io.png
@@ -113,12 +93,17 @@
   url: https://xaoxuu.com
   desc: "iOS | 开发者"
 
-- name: "马孔多不下雪"
-  avatar: blog.5v5.lol.png
-  url: https://blog.5v5.lol/
-  desc: "心有萌猫，细嗅蔷薇"
-
 - name: "Desvl's Blog"
   avatar: desvl.xyz.png
   url: https://desvl.xyz/
   desc: "A blog mainly on graduate mathematics."
+
+- name: "Restent's Notebook"
+  avatar: blog.gxres.net.jpg
+  url: https://blog.gxres.net
+  desc: "静寂に問う 答えを求めて"
+
+- name: "LJY's Blog"
+  avatar: blog.ljyngup.com.png
+  url: https://blog.ljyngup.com/
+  desc: "friend"
